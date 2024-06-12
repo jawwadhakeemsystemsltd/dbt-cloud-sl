@@ -1,0 +1,1 @@
+select * from cost_center
